@@ -23,4 +23,18 @@ I wanted to build something like a mini version of **Sysmon / Task Manager** in 
    ```bash
    git clone https://github.com/HexShieldX/sysmon-clone.git
    cd sysmon-clone
+🔹 Sample Output
+==== Sysmon Clone (C++) ====
+CPU Usage: 25.9574%
+Memory Usage: 78% (7998 MB Total, 1684 MB Free)
+Disk C: 99 GB Total, 15 GB Free
+Running Processes:
+PID: 18140 - 000000940BEFF110
+PID: 17004 - 000000940BEFF110
+PID: 9284  - 000000940BEFF110
+PID: 13556 - 000000940BEFF110
+PID: 18428 - 000000940BEFF110
+PID: 9756  - 000000940BEFF110
+PID: 4624  - 000000940BEFF110
+
 
